@@ -4,8 +4,8 @@
 
 Scaffold out files for a [Choo](https://choo.io) project. Useful to speed up
 creating applications. If you're looking to generate projects from scratch,
-check out [create-choo-app](https://github.com/choojs/create-choo-app) and
-[create-choo-electron](https://github.com/choojs/create-choo-electron).
+check out [choo-cli](https://github.com/trainyard/choo-cli), [create-choo-app](https://github.com/choojs/create-choo-app) and
+[create-choo-electron](https://github.com/choojs/create-choo-electron). 
 
 ## Usage
 ```sh
